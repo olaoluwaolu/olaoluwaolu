@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @olaoluwaolu
-- 👀 I’m interested in Space, Robotics and AI
-- 🌱 I’m currently learning Arduino
-- 💞️ I’m looking to collaborate on technology that can improve methods and standards of living
-- 📫 How to reach me: olaoluwaolugbenle@gmail.com
+- 👀 I’m interested in Embedded Systsems + Software
+- 📫 How to reach me: olugbeoj@clarkson.edu
 
 <!---
 olaoluwaolu/olaoluwaolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
